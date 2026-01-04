@@ -49,4 +49,3 @@ El sitio permitirá:
 - Seleccionar electivos de manera informada.
 - Leer testimonios y recomendaciones de estudiantes respecto a su trayectoria académica.
 
-
